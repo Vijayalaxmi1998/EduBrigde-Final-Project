@@ -9,3 +9,6 @@ Numpy and Pandas for data cleaning
 Matplotlib for data visualization
 Sklearn for model building
 Jupyter notebook
+
+
+![image](https://user-images.githubusercontent.com/105513346/185574731-1403fbe9-c040-4917-9ed3-77bad1136a2d.png)
